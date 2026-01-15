@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">otyy</string>
+    <string name="welcome_message">欢迎使用我们的应用！</string>
+    <string name="location_detected_title">检测到位置 %1$s</string>
+    <string name="location_detected_message">我们检测到您的位置为 %1$s。您想将应用语言切换为 %2$s 吗？</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+</resources>

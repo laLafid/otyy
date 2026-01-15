@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">otyy</string>
+    <string name="location_detected_message">現在の場所は %1$s と検出されました。アプリの言語を %2$s に切り替えますか？</string>
+    <string name="location_detected_title">場所を検出しました %1$s</string>
+    <string name="no">いいえ</string>
+    <string name="welcome_message">私たちのアプリケーションへようこそ！</string>
+    <string name="yes">はい</string>
+</resources>

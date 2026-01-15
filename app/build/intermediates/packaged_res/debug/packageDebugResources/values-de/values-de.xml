@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">otyy</string>
+    <string name="location_detected_message">Wir haben Ihren Standort als %1$s erkannt. Möchten Sie die App-Sprache auf %2$s umstellen?</string>
+    <string name="location_detected_title">Standort erkannt %1$s</string>
+    <string name="no">Nein</string>
+    <string name="welcome_message">Willkommen in unserer Anwendung!</string>
+    <string name="yes">Ja</string>
+</resources>

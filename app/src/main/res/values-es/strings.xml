@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">otyy</string>
+    <string name="welcome_message">¡Bienvenido a nuestra aplicación!</string>
+    <string name="location_detected_title">Ubicación detectada %1$s</string>
+    <string name="location_detected_message">Detectamos su ubicación como %1$s. ¿Le gustaría cambiar el idioma de la aplicación a %2$s?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+</resources>

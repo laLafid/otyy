@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">otyy</string>
+    <string name="welcome_message">Welcome to our application!</string>
+    <string name="location_detected_title">Location Detected %1$s</string>
+    <string name="location_detected_message">Location: &lt;b>%1$s&lt;/b>&lt;br/&gt;Switch language to &lt;b>%2$s&lt;/b>?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
